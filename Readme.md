@@ -103,13 +103,10 @@ food-delivery-hackathon/
 ├── final_food_delivery_dataset.csv             # Merged dataset (output)
 │
 ├── data/                                        # Input datasets
-│   ├── orders.csv
-│   ├── users.json
-│   └── restaurants.sql
-│
-└── results/
-    ├── MCQ_Answers_Summary.md                  # All answers documented
-    └── visualizations/                          # Charts and graphs
+    ├── orders.csv
+    ├── users.json
+    └── restaurants.sql
+                 
 ```
 
 ---
@@ -237,9 +234,8 @@ All answers have been:
 ## Contact
 
 For questions or clarifications about this analysis:
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: https://github.com/Abhich05
+- **LinkedIn**: https://www.linkedin.com/in/errorwithabhich/
 
 ---
 
